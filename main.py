@@ -4,8 +4,8 @@ import os
 import datetime
 
 # --- 1. CONFIGURAÇÃO DE ACESSO ---
-USUARIO_MESTRE = "admin"
-SENHA_MESTRE = "raiz2026"
+USUARIO_MESTRE = "olavoebruna"
+SENHA_MESTRE = "Luke2026"
 
 # --- 2. CONFIGURAÇÃO DA PÁGINA ---
 st.set_page_config(page_title="Homem Raiz - Gestão", layout="wide", page_icon="🌲")
